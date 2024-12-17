@@ -16,10 +16,10 @@ print(per)
 if per<35:
     print('grade is f')
 elif per>35 and per<=50:
-    print('grade is c')
+     print('grade is c')
 elif per in range(51,91):
-    print('grade is b')
+     print('grade is b')
 elif per in range(91,101):
-    print('grade is A')
+     print('grade is A')
 else:
     print('invalid per')  
